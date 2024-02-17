@@ -4,6 +4,8 @@ date: "2022-07-22"
 description: "Um pequeno estudo do porquê esse site veio à existência"
 ---
 
+TESTANDO O NETLIFY
+
 Olá! Seja muito bem-vindo à primeira publicação desse humilde blog.
 
 Para ser sincero, não sei se o que eu escrevo/escreverei irá alcançar alguém além de mim mesmo. Mas, caso você tenha descoberto esse espaço na internet, desejo que o conteúdo aqui seja de muito bom proveito.
