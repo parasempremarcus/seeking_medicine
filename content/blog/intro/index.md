@@ -42,7 +42,7 @@ Em segundo lugar, existem alguns tipos de posts que eu pretendo fazer aqui, send
 
 A intenção dessas publicações mensais é ter um ponto de partida para o site e sempre ter o que publicar, pois o se eu escreverei variará muito dependendo do momento que eu estiver na minha vida.
 
-Por exemplo, estou para fazer um post sobre [os melhores canais estrangeiros que estou assistindo](http://localhost:8000/best-foreign-channels/), além de um no próximo mês relatando como foi minha experiência no ELV-SUS que ocorrerá uma semana antes do inicio das aulas. 
+Por exemplo, estou para fazer um post sobre [os melhores canais estrangeiros que estou assistindo](https://seekingmedicine.netlify.app/best_foreign_channels/), além de um no próximo mês relatando como foi minha experiência no ELV-SUS que ocorrerá uma semana antes do inicio das aulas.
 
 Portanto, tanto essas "séries" mensais e os posts ocasionais farão parte do conteúdo que pretendo criar.
 

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Seeking Medicine`,
     author: {
-      name: `Marcos`,
+      name: `Paulo`,
       summary: `um jovem brasileiro, cristão, estudante da Faculdade de Medicina da Bahia e membro da Liga Acadêmica de Neurocirurgia da Bahia.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,

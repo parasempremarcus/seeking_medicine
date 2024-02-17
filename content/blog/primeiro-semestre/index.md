@@ -4,11 +4,11 @@ date: "2022-12-31"
 description: "Depois de meses em hiatus, voltamos aos trabalhos!"
 ---
 
-Uau, já faz muito tempo que escrevo para esse blog. Como dito no post de introdução, esse foi o meu primeiro semestre dentro da Faculdade de Medicina da Bahia da UFBA, e muita coisa mudou na minha vida, não sobrando tempo para quase nada fora do curso (mais sobre isso a frente).
+Uau, já faz muito tempo que escrevo para esse blog. Como dito no post de introdução, esse foi o meu primeiro semestre dentro da Faculdade de Medicina da Bahia da UFBA e muita coisa mudou na minha vida, não sobrando tempo para quase nada fora do curso (mais sobre isso a frente).
 
 Sinto-me triste ao pensar que não pude escrever durante todo esse tempo. Entretanto, não desisti do blog nem por um segundo, apenas esperei o momento certo para melhorar minha estratégia de escrita para que caiba no meu [cronograma universitário](https://drive.google.com/file/d/1ET5O_RQmoq6CjCgdq6wvJ34GZ12Hzzko/view?usp=sharing), e estou tendo progresso em relação a isso.
 
-Decidi diminuir a quantidade de quadros no site e focalizar em assuntos mais esporádicos que venham a mente, apenas tendo como constância o relatos de livros lidos no mês, filmes, séries, animes, etc.
+Decidi diminuir a quantidade de quadros no site e focalizar em assuntos mais esporádicos que venham a mente, apenas tendo como constante o relatos de livros lidos no mês, filmes, séries, animes, etc.
 
 O primeiro semestre já se foi depois de muita luta. O objetivo desse post é planejar objetivos e refletir como melhorar o próximo ano, tendo em mente o que eu passei durante os últimos dois semestres, entendendo passo a passo do que deu errado e do que deu certo.
 
