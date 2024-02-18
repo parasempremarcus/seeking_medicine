@@ -6,7 +6,7 @@ description: "Um pequeno estudo do porquê esse site veio à existência"
 
 Olá! Seja muito bem-vindo à primeira publicação desse humilde blog.
 
-Para ser sincero, não sei se o que eu escrevo/escreverei irá alcançar alguém além de mim mesmo. Mas, caso você tenha descoberto esse espaço na internet, desejo que o conteúdo aqui seja de muito bom proveito.
+Para ser sincero, não sei se o que eu escrevo/escreverei irá alcançar alguém além de mim mesmo. Mas, caso você tenha descoberto esse pequeno espaço na internet, desejo que o conteúdo aqui seja de muito bom proveito!
 
 A intenção pela qual criei este site é para que sirva como um grande diário e depósito de pensamentos durante a minha vida (ou até eu perder a paciência de continuar escrevendo, como o [Darlock](https://dalrock.wordpress.com/)).
 
