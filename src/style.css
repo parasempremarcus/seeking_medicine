@@ -1,6 +1,6 @@
 /* CSS Custom Properties Definitions */
 
-@import url('https://fonts.googleapis.com/css?family=JetBrains+Mono:wght@100');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 :root {
   --maxWidth-none: "none";
