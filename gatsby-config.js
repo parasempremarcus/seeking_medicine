@@ -14,6 +14,18 @@ module.exports = {
   plugins: [
     `gatsby-plugin-image`,
     {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `JetBrains Mono:200,300,400,700,800`,
+          `Micro 5`,
+          `Anta`,
+          `Jacquarda Bastarda 9`
+        ],
+        display: 'swap'
+      }
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
