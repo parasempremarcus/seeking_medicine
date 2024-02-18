@@ -26,7 +26,7 @@ Primeiro, seria muito estranho começar sem me apresentar formalmente.
 
 ### Quem Eu Sou
 
-**Paulo é o meu segundo nome**, porém, para honrar um dos Apóstolos do nosso Senhor Jesus Cristo e manter (um pouco) a minha privacidade, decidi usá-lo ao invés do meu primeiro. Tenho 19 anos, natural de Salvador e atualmente cursando [Medicina](http://www.fameb.ufba.br/) na [Universidade Federal da Bahia](https://ufba.br/).
+**Meu nome é Marcos**, tenho 19 anos, natural de Salvador e atualmente estou cursando [Medicina](http://www.fameb.ufba.br/) na [Universidade Federal da Bahia](https://ufba.br/).
 
 Sou Cristão e para-um-dia-ser membro de uma pequena [Igreja Presbiteriana do Brasil](https://ipb.org.br/sobre-a-ipb.php). A partir disso, outros fatos sobre mim se mostram evidentes: sou Protestante e amigável ao Calvinismo (ainda preciso aumentar meu acervo acadêmico sobre o assunto). Muitos dos pontos de vista seguirão essa linha teológica e não poderei negar que, portanto, possuo uma _bias_. Entretanto, qualquer denominação (Católica, Ortodoxa, Batista, etc) é muito bem-vinda.
 
