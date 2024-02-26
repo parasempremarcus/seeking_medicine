@@ -5,10 +5,10 @@ module.exports = {
       name: `Marcos`,
       summary: `um jovem brasileiro, cristão, estudante da Faculdade de Medicina da Bahia e membro da Liga Acadêmica de Neurocirurgia da Bahia.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A personal website running on Gatsby, React, and Node.js.`,
+    siteUrl: `https://seekingmedicine.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `x`,
     },
   },
   plugins: [
@@ -125,8 +125,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Seeking Medicine`,
+        short_name: `SM`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website

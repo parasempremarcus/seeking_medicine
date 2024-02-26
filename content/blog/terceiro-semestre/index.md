@@ -10,7 +10,7 @@ Por muito tempo desde o último post, uma certa melancolia me possuia ao olhar b
 
 ### A Jornada Até Aqui
 
-Foi isso que me afastou do Seeking Medicine na minha [primeira tentativa de retornar](/content/blog/primeiro-semestre/index.md). Olhando em retrospectiva, muita coisa aconteceu nos últimos semestres, tornando impossível tirar tempo para escrever em um blog que nem hospedado na internet estava, apenas em um arquivo no meu computador.
+Foi isso que me afastou do Seeking Medicine na minha [primeira tentativa de retornar](https://seekingmedicine.netlify.app/primeiro-semestre/). Olhando em retrospectiva, muita coisa aconteceu nos últimos semestres, tornando impossível tirar tempo para escrever em um blog que nem hospedado na internet estava, apenas em um arquivo no meu computador.
 
 Nesse período, eu me tornei membro da [Liga Acadêmica de Neurocirurgia](https://www.instagram.com/lanc_ba/)! Não somente isso, hoje eu sou o diretor de pesquisa da liga, impressionante, não é mesmo? Principalmente para alguém que no último post estava apenas _**planejando**_ como estudar para a prova.
 
