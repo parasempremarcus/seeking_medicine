@@ -14,7 +14,7 @@ Foi isso que me afastou do Seeking Medicine na minha [primeira tentativa de reto
 
 Nesse período, eu me tornei membro da [Liga Acadêmica de Neurocirurgia](https://www.instagram.com/lanc_ba/)! Não somente isso, hoje eu sou o diretor de pesquisa da liga, impressionante, não é mesmo? Principalmente para alguém que no último post estava apenas _**planejando**_ como estudar para a prova.
 
-Me tornei monitor de Neuroanatomia, orientado pelo [Dr. Jamary Oliveira](https://www.instagram.com/jamary.filho/), estou há 4 meses estagiando no Hospital do Subúrbio com o [Dr. Davi Solla](https://www.instagram.com/davisolla/), um dos criadores do [Sétimo Ano](https://setimoano.com/) e uma grande inspiração baiana em neurocirurgia (e orientador da minha sessão de 2023.2), fiz minha primeira publicação, no [Jornal Brasileiro de Neurocirurgia do Brasil](https://www.jbnc.org.br/), e diversas outras coisas ali e aqui.
+Me tornei monitor de Neuroanatomia, orientado pelo [Dr. Jamary Oliveira](https://www.instagram.com/jamary.filho/), estou há 4 meses estagiando no Hospital do Subúrbio com o [Dr. Davi Solla](https://www.instagram.com/davisolla/), um dos criadores do [Sétimo Ano](https://setimoano.com/) e uma grande inspiração baiana em neurocirurgia (e orientador da minha sessão de 2023.2), fiz minha primeira publicação, no [Jornal Brasileiro de Neurocirurgia](https://www.jbnc.org.br/), e diversas outras coisas ali e aqui.
 
 Minha vida tornou-se extremamente ocupada durante esse período, cada uma dessas coisas necessitou de uma dedicação incontável: todos os dias trabalhando, perdendo noites de sono, respondendo demandas, estudando pra faculdade, e ainda tentando manter meus hobbies. 
 

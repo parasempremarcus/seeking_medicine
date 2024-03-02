@@ -14,7 +14,7 @@ O primeiro semestre já se foi depois de muita luta. O objetivo desse post é pl
 
 Esse blog, como já pode ser observado, é longo. Entretanto, o que será dito nele aparecerá diversas vezes nos posts que virão durante o ano de 2023, principalmente o primeiro semestre.
 
-### Liga Acadêmica de Neurocirurgia 🧠
+### Liga Acadêmica de Neurocirurgia
 
 Meus primeiros contatos com as matérias médicas desse semestre apenas ardeu ainda mais a chama amorosa que eu tenho pela neurociência, algo que foi amplificado com a [Liga Acadêmica de Neurocirurgia da Bahia](https://www.instagram.com/lanc_ba/), mais conhecida como a maravilhosa **LANC**.
 
@@ -46,7 +46,7 @@ Por fim, só falta a prova teórica. Peguei o edital do semestre anterior (recom
 
 Sendo assim, oro para que tudo dê certo, e que isso seja apenas um passo nessa grande jornada.
 
-### Igreja Presbiteriana do Brasil ⛪
+### Igreja Presbiteriana do Brasil
 
 Uma das coisas que eu me arrependo amargamente é minha baixa presença eclesiástica. Junto a isso, minhas leituras bíblicas e orações diminuiram drásticamente; é legal dizer ser cristão, difícil é ser um.
 
@@ -62,7 +62,7 @@ Além disso, voltarei a ter o hábito de ler a Bíblia com um cronograma e orar 
 
 Também irei voltar a ler mais livros cristãos, fiquei muito focado em outros gêneros e abandonei aqueles que tratam do que é mais importante na vida, Jesus.
 
-### PC Master Race 😍
+### PC Master Race
 
 Finalmente estou recebendo uma bolsa de assistência da faculdade que dá um valor razoável mensalmente, principalmente para alguém (como eu) que não pode trabalhar e estudar ao mesmo tempo.
 
@@ -82,17 +82,17 @@ Atualmente, minhas configurações são razoáveis, porém dá para melhorar mui
 **KEYBOARD** | Multilaser TC234  
 **OS** | Windows 10  
 
-Desejo mudar o processador, estou entre o [_**Ryzen 5 5600**_](https://youtu.be/GT-pHiLQOKg) (R$ 620) e o [_**Ryzen 5 5500**_](https://youtu.be/-BMiks9PhW8) (R$ 470). A minha 1400 é bem fraquinha, em jogos de mundo aberto é onde ela sofre mais, pois o gargalo é gritante. Devido a isso, talvez esse seja o primeiro upgrade que eu faça, pois comprar uma nova placa de vídeo sem um processador bom apenas vai repetir o problema que estou tendo agora.
+Desejo mudar o processador, estou entre o [**Ryzen 5 5600**](https://youtu.be/GT-pHiLQOKg) (R$ 620) e o [**Ryzen 5 5500**](https://youtu.be/-BMiks9PhW8) (R$ 470). A minha 1400 é bem fraquinha, em jogos de mundo aberto é onde ela sofre mais, pois o gargalo é gritante. Devido a isso, talvez esse seja o primeiro upgrade que eu faça, pois comprar uma nova placa de vídeo sem um processador bom apenas vai repetir o problema que estou tendo agora.
 
 Ainda estou em dúvida sobre qual dos dois pegar. Contextualizando, o [5500 é basicamente um 3600/5600G](https://youtu.be/4JebBhH-B88), e o 5600 é um monstro que vai durar muitos anos. Dependendo do desconto, não vou resistir não pegar o 5600, porém tudo pode acontecer até 22 de janeiro, que é a data do Ano Novo Chinês, [uma das melhores épocas de promoção do Aliexpress](https://youtu.be/8DQqtptYcrE?t=107).
 
-Sobre placas de vídeo, estou pensando em pegar a [_**ASUS GeForce RTX 2060 6GB**_](https://youtu.be/iF9eNdoYr10) (R$ 1050). Essa GPU é um sonho pra mim, ela já passou de ser 1900 no Ali para 1500 e agora 1050, podendo ser bem menor na promoção de Ano Novo. Estou muito tentado em pegá-la primeiro que o processador, mas ainda tenho que ver como tudo vai proceder na época da promo, ainda mais pensando em quanto vou ter reservado até lá, talvez o dinheiro todo necessário para comprar os dois, talvez só um.
+Sobre placas de vídeo, estou pensando em pegar a [**ASUS GeForce RTX 2060 6GB**](https://youtu.be/iF9eNdoYr10) (R$ 1050). Essa GPU é um sonho pra mim, ela já passou de ser 1900 no Ali para 1500 e agora 1050, podendo ser bem menor na promoção de Ano Novo. Estou muito tentado em pegá-la primeiro que o processador, mas ainda tenho que ver como tudo vai proceder na época da promo, ainda mais pensando em quanto vou ter reservado até lá, talvez o dinheiro todo necessário para comprar os dois, talvez só um.
 
-Outro upgrade que eu realmente necessito seria um HD. Como pôde ser observado nas minhas configurações, atualmente eu só tenho um total de 576GB, sendo que a maior parte atualmente já está sendo ocupada, me obrigando a ficar desistalando jogos e deletando arquivos. Estou em mente o [_**Western Digital Blue 2TB**_](https://youtu.be/x6gTvM1GIig) (R$ 320), dois terabytes é excelente para não precisar me preocupar muito com armazenamento por um bom tempo. Pensei em pegar um [_**SSD Netac de 1TB**_](https://www.aliexpress.com/item/1005003116455437.html?spm=a2g0o.cart.0.0.1f8638da5anfqe&mp=1) (R$ 290), pois os preços são semelhantes, entretanto, mesmo sendo mais lento, um HD de 2TB vai proporcionar o que eu mais anseio agora, armazenamento bruto.
+Outro upgrade que eu realmente necessito seria um HD. Como pôde ser observado nas minhas configurações, atualmente eu só tenho um total de 576GB, sendo que a maior parte atualmente já está sendo ocupada, me obrigando a ficar desistalando jogos e deletando arquivos. Estou em mente o [**Western Digital Blue 2TB**](https://youtu.be/x6gTvM1GIig) (R$ 320), dois terabytes é excelente para não precisar me preocupar muito com armazenamento por um bom tempo. Pensei em pegar um [**SSD Netac de 1TB**](https://www.aliexpress.com/item/1005003116455437.html?spm=a2g0o.cart.0.0.1f8638da5anfqe&mp=1) (R$ 290), pois os preços são semelhantes, entretanto, mesmo sendo mais lento, um HD de 2TB vai proporcionar o que eu mais anseio agora, armazenamento bruto.
 
-Por último, preciso de um novo mouse. Não quero gastar muito, portanto decidi ir no melhor custo benefício que encontrei nos últimos tempos, [_**Razer Viper Mini**_](https://youtu.be/EX5-dI6ylEg) (R$ 140), provavelmente o comprarei em janeiro também.
+Por último, preciso de um novo mouse. Não quero gastar muito, portanto decidi ir no melhor custo benefício que encontrei nos últimos tempos, [**Razer Viper Mini**](https://youtu.be/EX5-dI6ylEg) (R$ 140), provavelmente o comprarei em janeiro também.
 
-### Listinha 2023 🤠
+### Listinha 2023
 
 Um dos meus maiores erros esse ano foi colocar uma meta de livros/filmes, mas não ter a mínima ideia de quais consumir ou por onde começar. Aprendi com a experiência que toda meta fica mais fácil quando já existe o primeiro passo.
 
