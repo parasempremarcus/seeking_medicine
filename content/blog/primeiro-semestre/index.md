@@ -6,7 +6,7 @@ description: "Depois de meses em hiatus, voltamos aos trabalhos!"
 
 Uau, já faz muito tempo que escrevo para esse blog. Como dito no post de introdução, esse foi o meu primeiro semestre dentro da Faculdade de Medicina da Bahia da UFBA e muita coisa mudou na minha vida, não sobrando tempo para quase nada fora do curso (mais sobre isso a frente).
 
-Sinto-me triste ao pensar que não pude escrever durante todo esse tempo. Entretanto, não desisti do blog nem por um segundo, apenas esperei o momento certo para melhorar minha estratégia de escrita para que caiba no meu [cronograma universitário](https://drive.google.com/file/d/1ET5O_RQmoq6CjCgdq6wvJ34GZ12Hzzko/view?usp=sharing), e estou tendo progresso em relação a isso.
+Sinto-me triste ao pensar que não pude escrever durante todo esse tempo. Entretanto, não desisti do blog nem por um segundo, apenas esperei o momento certo para melhorar minha estratégia de escrita para que caiba no meu cronograma universitário, e estou tendo progresso em relação a isso.
 
 Decidi diminuir a quantidade de quadros no site e focalizar em assuntos mais esporádicos que venham a mente, apenas tendo como constante o relatos de livros lidos no mês, filmes, séries, animes, etc.
 
@@ -91,76 +91,6 @@ Sobre placas de vídeo, estou pensando em pegar a [**ASUS GeForce RTX 2060 6GB**
 Outro upgrade que eu realmente necessito seria um HD. Como pôde ser observado nas minhas configurações, atualmente eu só tenho um total de 576GB, sendo que a maior parte atualmente já está sendo ocupada, me obrigando a ficar desistalando jogos e deletando arquivos. Estou em mente o [**Western Digital Blue 2TB**](https://youtu.be/x6gTvM1GIig) (R$ 320), dois terabytes é excelente para não precisar me preocupar muito com armazenamento por um bom tempo. Pensei em pegar um [**SSD Netac de 1TB**](https://www.aliexpress.com/item/1005003116455437.html?spm=a2g0o.cart.0.0.1f8638da5anfqe&mp=1) (R$ 290), pois os preços são semelhantes, entretanto, mesmo sendo mais lento, um HD de 2TB vai proporcionar o que eu mais anseio agora, armazenamento bruto.
 
 Por último, preciso de um novo mouse. Não quero gastar muito, portanto decidi ir no melhor custo benefício que encontrei nos últimos tempos, [**Razer Viper Mini**](https://youtu.be/EX5-dI6ylEg) (R$ 140), provavelmente o comprarei em janeiro também.
-
-### Listinha 2023
-
-Um dos meus maiores erros esse ano foi colocar uma meta de livros/filmes, mas não ter a mínima ideia de quais consumir ou por onde começar. Aprendi com a experiência que toda meta fica mais fácil quando já existe o primeiro passo.
-
-Por isso, a seguir, iremos viajar um pouco nos (1) jogos, (2) livros e (3) animes que quero consumir nesse ano de 2023.
-
-Uma das coisas mais importantes para mim é me manter em contato com diversas formas de arte e cultura, colocar uma meta acerca disso é fundamental para minha estabilidade mental, além de ser muito legal.
-
-##### 1. Games (ed. 2023):
-
-**STAR WARS Jedi: Fallen Order™** | O único _souls-like_ que eu já joguei foi o primeiro **Dark Souls**, e gostei do gênero. Mesmo não sendo o maior, ainda sou um fã de Star Wars. Assim, nada melhor do que misturar essas duas coisas em uma só. Estou bastante ansioso por esse desde que o vi pela primeira vez há anos, espero que seja uma boa experiência, pois só estou esperando o ano virar para poder jogá-lo.
-
-**God of War** | O novo game do **Bom da Guerra** foi um dos primeiros que eu joguei quando montei o meu computador atual. Na época, mesmo gostando muito do jogo, eu tinha outros planejamentos e o deixei de lado. Agora pretendo voltar a jogá-lo, principalmente por causa da sequência que foi lançada recentemente, **God of War: Ragnarok**.
-
-**The Last of Us™ Part I** | É um pecado esse jogo ter demorado tanto para sair no PC. Porém, finalmente, FINALMENTE, no dia 03 de março, apenas 3 dias antes do meu semestre começar, os jogadores de computador poderão apreciar as aventuras de Joel e Ellie. Espero que a versão da Steam Verde saia rápido, mesmo sendo pesada, pois estou sonhando com esse jogo há muito, MUITO tempo; tanto que estou pensando seriamente em pegá-lo na Steam Azul, mesmo sendo 167 reais!
-
-**The Witcher 2: Assassins of Kings** | A saga The Witcher é uma das mais consagradas não só nos videogames, mas também na literatura (como poderá ser observado mais a frente). Portanto, decidi finalmente me aventurar na jornada de Geralt of Rivia, começando pelo segundo jogo da trilogia (em preparação para o terceiro), pois o primeiro é simplesmente injogável para mim.
-
-**FINAL FANTASY X/X-2 HD Remaster** | O meu jogo favorito de toda vida é o sétimo da franquia Final Fantasy; os personagens, a história, a trilha sonora, a jogabilidade, o ambiente, tudo me faz querer ficar naquele mundo mais e mais. Sendo assim, aqui estou eu mais uma vez para me apaixonar novamente, agora com um considerado o melhor da franquia (X). Além do VII, o último que eu joguei foi o meu tão amado XV, que, mesmo não sendo o melhor que já joguei (e a crítica concorda), ainda é um ótimo jogo com uma história, infelizmente, muito runshada.
-
-##### 2. Livros (ed. 2023):
-
-**O Festim dos Corvos** + **A Dança dos Dragões** | A saga das Crônicas de Gelo e Fogo está se tornando a minha favorita, sendo o melhor dos três que eu li até agora A Tormenta de Espadas (10/10). Portanto, agora irei finalizar essa obra linda e incompleta, adentrando ainda mais no mundo de Westeros.
-
-**A Saga “The Wither”** | Em preparação para os jogos, irei ler os livros que os inspiraram. Já ouvi várias recomendações dessa série, algo que me surpreendeu bastante, pois só conhecia o jogo até então. Baixei no Kindle os três primeiros e veremos se vale a pena continuar.
-
-**We Were Liars** | Já estava reservando esse há muito tempo. Mistério envolvendo adolescentes, tem como dar errado? ... _13 Reasons Why left the room_. Sou fã de um bom mistério, e esse foi bastante recomendado a mim durante muito tempo, hora de dar uma chance esse ano.
-
-**Sobre Meninos e Lobos** | Outro livro de mistério, mas agora um mais consagrado. Mystic River, nome original, é um filme muito conhecido baseado no livro, escrito pelo mesmo autor de “**A Ilha do Medo**”, adaptado em filme pelo Martin Scorscese (ótimo filme, btw). Com esse currículo, decidi dar uma chance a esse também.
-
-**The Children of Men** | A fonte original do filme de mesmo nome do Alfonso Cuarón.. precisa de mais?
-
-**The Lord of the Flies** | Um clássico que eu nunca li. Consumi bastante literatura clássica esse ano (A Metamorfose, A Morte de Ivan Ilitch, O Alienista, Na Colônia Penal, O Sonho de Um Homem Ridículo), e quero aumentar meu acervo em 2023.
-
-**Contra a Perfeição** | A engenharia genética em humanos é um assunto problemático. Para ser sincero, o único argumento que eu conheço contra tal tecnologia é a eugenia, por isso estou bastante curioso para ler esse livro e me aprofundar mais ainda nesse assunto que é tão importante para a minha futura área de atuação, a Medicina.
-
-**Atomic Habits** | Um das minhas metas esse ano é ser mais organizado, e isso resume bem o que vou precisar para melhorar meu físico, hábitos de leitura, oração e, claro, estudos. Atomic Habits é basicamente uma das bíblias da produtividade, comecei a ler um pouco e estou ansioso para poder aplicar os seus ensinamentos em tudo na minha vida; espero que seja de grande utilidade.
-
-**The Motivation Myth** | Mais uma das leituras essenciais de qualquer canal de produtividade. Motivação é um mito, já apliquei muito isso na minha vida, porém nunca vi base científica para tal uso, por isso essa será uma leitura fundamental para esse ano de 2023.
-	
-**Deep Work** | Uma recomendação do [James Scholz](https://youtu.be/kICh_d6tHQk). Eu gostei do livro “**How to Win at College**” do mesmo escritor, Cal Newport, e apliquei muito que ele ensinou ali (e muitas outras eu queria ter seguido melhor). Deep Work irá me ajudar a entender a importância de me manter focado em um mundo cheio de distrações em que vivo e poder ser mais produtivo ao eliminá-las.
-
-**The Defining Decade: Why Your Twenties Matter** | Fevereiro é o mês do meu aniversário, logo no início de 2023, 20 anos. Como o título do livro diz, "A Dêcada que Define", quero tirar o melhor da minha juventude para ter um futuro grande pela frente para mim e para minha atual e futura família. Quero que meus filhos cresçam com oportunidade e tenham mais escolhas, coisas que eu não tive. Para isso, tenho que aprender como aproveitar o máximo desse período, e espero que esse livro me ajude com isso.
-
-**Every Patient Tells a Story** + **Do No Harm** | Mais dois livros de Medicina para 2023. Esse ano eu só li um, “**The Laws of Medicine**”, e quero aumentar meu acervo, principalmente sobre neurocirurgia, já que uma das minhas metas esse ano é entrar na LANC. Aliás, “**Do No Harm**” foi uma recomendação do neurocirurgião Danilo Quadros em uma sessão aberta da LANC.
-	
-**Seeking Allah, Finding Jesus** | Mais um livro para 2023 com a função de aumentar meu acervo apologético. É uma infelicidade lembrar que Nabeel Qureshi não está mais entre nós, já repeti várias vezes [vídeos](https://youtu.be/I46JquDHdCQ) de apologética dele no YouTube, além de ter bastante confiança na recomendação do [David Wood](https://youtu.be/Qx1IkH5pNH0).
-
-**Five Proofs of the Exitence of God** | Depois de “**Aquinas - A Beginner's Guide**”, estou muito animado para aprender mais sobre a Teologia Natural mais focada agora nos argumentos para a existência de Deus.
-
-**Libido Dominandi** | Pornografia é uma doença, e o vício nela é perigoso. Não queria ler um livro mais ou menos sobre o assunto, ou um que queira me vender curso, pois a comunidade _NoFap_ virou um monstro incontrolável nos últimos tempos. Esse volume já está (adivinhe) guardado nas minhas listas apenas esperando o momento certo; espero que esse ano finalmente eu possa o tirar dessas listas.
-
-**A Personal Odyssey** + **Intellectuals and Race** | Gosto muito dos conteúdos do Thomas Sowell, ele é um homem negro, inteligente, que veio de periferia. Quero começar a entender os pensamentos dele através de uma biografia, creio que seja ainda motivador para mim, que tem uma vida parecida com esses autores negros, além de já começar a entender a temática negra em uma perspectiva conservadora; espero extrair muitos ensinamentos desse.
-
-**The Evolution of Desire** | Psicologia Evolutiva é um tema extremamente interessante, esse livro foi um dos que eu mais vi recomendados acerca do assunto, escrito por um autor bastante conhecido por temas nesse estilo, além de participar de várias pesquisas famosas, como “**Why Humans Have Sex**”, onde temos cerca de 250 razões do porquê seres humanos tem relações sexuais, uma descoberta extremamente interessante.
-
-**What He Must Be To Marry My Daughter** | Um livro sobre masculinidade cristã. O último que eu li foi “**Thoughts for Young Men**”, que foi uma boa experiência. Entretanto, estou precisando voltar as raízes e ver mais argumentos acerca do assunto, já que viver em uma universidade liberal cria diversos conflitos de gênero na minha cabeça; gosto do escritor pelo que vi dele no YouTube, e o livro é bem recomendado.
-
-##### 3. Animes (ed. 2023):
-
-**Re:Zero − Starting Life in Another World** | Pensei muito em, ao invés de assistir, ler as _light novels_, porém minha lista de leitura está muito grande, então o anime vai servir. Provavelmente eu estou muito atrasado na vibe do Re:Zero, mas eu gostei muito do primeiro volume que eu li, e espero que as duas temporadas valham a pena.
-
-**Attack on Titan, SEASON 3/4** | Não aguento mais ficar por fora do que diabos está acontecendo em SNK!
-
-**Demon Slayer** | Um dos animes mais vendidos de todos os tempos, e eu não tive tempo ainda de assistir; hora de ver o que isso realmente é.
-
-**Vinland Saga** | Outro exemplo que eu queria ler para depois assistir.
-
-**Jujutsu Kaisen** | Mais um anime muito famoso que eu perdi a época. Recebi muitas recomendações para assistir esse, portanto quero logo saber do que se trata.
 
 ### Conclusão
 
